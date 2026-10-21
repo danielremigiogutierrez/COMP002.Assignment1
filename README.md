@@ -1,2 +1,2 @@
 Author: Daniel Remigio Gutierrez
-Purpose: [A brief description explaining the purpose of the repository]
+Purpose: To test out Javascript and make sure it works.
